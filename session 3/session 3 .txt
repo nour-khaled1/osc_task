@@ -1,0 +1,21 @@
+step 1 :
+useradd : create a new user 
+passwd : make a password
+groupadd : create a group 
+usermod : add a user into a group 
+su : switch the user 
+step 2:
+mkdir : create a new directory 
+touch : create a new file 
+chmod : change permission 
+step 3:
+chown : change the owner and the group of the file 
+step 4 :
+& : to make background process 
+kill : to end the process 
+killall : to stop all the package's process
+jobs : show all the background's process 
+step 5 :
+apt install : to install package 
+apt remove : to remove package 
+ 
